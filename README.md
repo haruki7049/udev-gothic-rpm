@@ -1,0 +1,1 @@
+# udev-gothic-rpm
